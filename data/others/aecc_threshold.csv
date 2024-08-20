@@ -1,0 +1,175 @@
+ecdg_code,aecc_class,min_score,max_score
+E0110 Dementia and other chronic brain syndromes,E0110A,5.476,inf
+E0110 Dementia and other chronic brain syndromes,E0110B,0,5.476
+E0120 Delirium,E0120A,8.007,inf
+E0120 Delirium,E0120B,0,8.007
+E0130 Stroke and other cerebrovascular disorders,E0130A,8.007,inf
+E0130 Stroke and other cerebrovascular disorders,E0130B,0,8.007
+E0140 TIA and precerebral occlusion,E0140Z,0,inf
+E0150 Seizures,E0150A,5.826,inf
+E0150 Seizures,E0150B,3.302,5.826
+E0150 Seizures,E0150C,0,3.302
+E0160 Convulsions,E0160A,5.476,inf
+E0160 Convulsions,E0160B,0,5.476
+E0170 Headaches,E0170A,3.831,inf
+E0170 Headaches,E0170B,0,3.831
+E0190 Nervous system and neurological disorders,E0190A,8.007,inf
+E0190 Nervous system and neurological disorders,E0190B,3.302,8.007
+E0190 Nervous system and neurological disorders,E0190C,0,3.302
+E0290 Eye disorders,E0290A,2.559,inf
+E0290 Eye disorders,E0290B,1.457,2.559
+E0290 Eye disorders,E0290C,0,1.457
+"E0310 Ear, nose, mouth and throat disorders",E0310A,2.676,inf
+"E0310 Ear, nose, mouth and throat disorders",E0310B,1.537,2.676
+"E0310 Ear, nose, mouth and throat disorders",E0310C,0,1.537
+E0320 Disorders of the teeth and supporting structures,E0320A,2.842,inf
+E0320 Disorders of the teeth and supporting structures,E0320B,1.639,2.842
+E0320 Disorders of the teeth and supporting structures,E0320C,0,1.639
+E0410 Major respiratory conditions,E0410A,8.007,inf
+E0410 Major respiratory conditions,E0410B,6.145,8.007
+E0410 Major respiratory conditions,E0410C,0,6.145
+E0420 Chronic obstructive airways disease,E0420A,7.131,inf
+E0420 Chronic obstructive airways disease,E0420B,4.121,7.131
+E0420 Chronic obstructive airways disease,E0420C,0,4.121
+E0430 Asthma,E0430A,5.476,inf
+E0430 Asthma,E0430B,2.559,5.476
+E0430 Asthma,E0430C,0,2.559
+E0440 Upper respiratory tract infections,E0440A,2.559,inf
+E0440 Upper respiratory tract infections,E0440B,0,2.559
+E0450 Lower respiratory tract infections,E0450A,5.165,inf
+E0450 Lower respiratory tract infections,E0450B,2.842,5.165
+E0450 Lower respiratory tract infections,E0450C,0,2.842
+"E0490 Respiratory disorders, other",E0490A,6.551,inf
+"E0490 Respiratory disorders, other",E0490B,4.349,6.551
+"E0490 Respiratory disorders, other",E0490C,2.676,4.349
+"E0490 Respiratory disorders, other",E0490D,0,2.676
+E0510 Acute coronary syndromes,E0510Z,0,inf
+E0520 Arrhythmia and cardiac arrest,E0520A,5.476,inf
+E0520 Arrhythmia and cardiac arrest,E0520B,0,5.476
+E0530 Heart failure and shock,E0530A,7.131,inf
+E0530 Heart failure and shock,E0530B,0,7.131
+E0540 Chest pain,E0540A,5.476,inf
+E0540 Chest pain,E0540B,3.434,5.476
+E0540 Chest pain,E0540C,0,3.434
+"E0590 Circulatory disorders, other",E0590A,6.145,inf
+"E0590 Circulatory disorders, other",E0590B,3.144,6.145
+"E0590 Circulatory disorders, other",E0590C,0,3.144
+E0610 Gastrointestinal haemorrhage,E0610A,5.476,inf
+E0610 Gastrointestinal haemorrhage,E0610B,0,5.476
+E0620 Gastrointestinal obstruction,E0620Z,0,inf
+E0630 Peritonitis and gastrointestinal perforation,E0630A,4.871,inf
+E0630 Peritonitis and gastrointestinal perforation,E0630B,0,4.871
+E0640 Oesophagitis and gastroenteritis,E0640A,3.597,inf
+E0640 Oesophagitis and gastroenteritis,E0640B,2.413,3.597
+E0640 Oesophagitis and gastroenteritis,E0640C,0,2.413
+E0650 Abdominal pain,E0650A,4.619,inf
+E0650 Abdominal pain,E0650B,2.842,4.619
+E0650 Abdominal pain,E0650C,0,2.842
+"E0690 Digestive system disorders, other",E0690A,5.165,inf
+"E0690 Digestive system disorders, other",E0690B,3.597,5.165
+"E0690 Digestive system disorders, other",E0690C,2.413,3.597
+"E0690 Digestive system disorders, other",E0690D,0,2.413
+E0710 Liver disorders,E0710A,5.476,inf
+E0710 Liver disorders,E0710B,0,5.476
+"E0720 Gall bladder, bile duct and pancreas disorders",E0720A,4.871,inf
+"E0720 Gall bladder, bile duct and pancreas disorders",E0720B,3.597,4.871
+"E0720 Gall bladder, bile duct and pancreas disorders",E0720C,0,3.597
+E0890 Musculoskeletal and musculotendinous disorders,E0890A,5.476,inf
+E0890 Musculoskeletal and musculotendinous disorders,E0890B,3.597,5.476
+E0890 Musculoskeletal and musculotendinous disorders,E0890C,2.273,3.597
+E0890 Musculoskeletal and musculotendinous disorders,E0890D,0,2.273
+E0910 Skin and subcutaneous tissue infections,E0910A,3.597,inf
+E0910 Skin and subcutaneous tissue infections,E0910B,2.273,3.597
+E0910 Skin and subcutaneous tissue infections,E0910C,0,2.273
+"E0990 Skin disorders, other",E0990A,3.144,inf
+"E0990 Skin disorders, other",E0990B,1.808,3.144
+"E0990 Skin disorders, other",E0990C,0,1.808
+E1010 Diabetes,E1010A,6.145,inf
+E1010 Diabetes,E1010B,3.597,6.145
+E1010 Diabetes,E1010C,0,3.597
+"E1090 Metabolic and nutritional disorders, other",E1090A,5.165,inf
+"E1090 Metabolic and nutritional disorders, other",E1090B,3.434,5.165
+"E1090 Metabolic and nutritional disorders, other",E1090C,0,3.434
+E1110 Kidney failure,E1110A,6.551,inf
+E1110 Kidney failure,E1110B,4.121,6.551
+E1110 Kidney failure,E1110C,0,4.121
+E1120 Urinary stones and obstruction,E1120A,4.619,inf
+E1120 Urinary stones and obstruction,E1120B,0,4.619
+E1130 Kidney and urinary tract infections,E1130A,4.349,inf
+E1130 Kidney and urinary tract infections,E1130B,2.676,4.349
+E1130 Kidney and urinary tract infections,E1130C,0,2.676
+"E1190 Kidney and urinary tract disorders, other",E1190A,3.831,inf
+"E1190 Kidney and urinary tract disorders, other",E1190B,0,3.831
+E1290 Male genitourinary disorders,E1290A,2.842,inf
+E1290 Male genitourinary disorders,E1290B,0,2.842
+E1390 Gynaecological disorders,E1390A,3.597,inf
+E1390 Gynaecological disorders,E1390B,0,3.597
+E1410 Postpartum and post abortion conditions,E1410A,3.597,inf
+E1410 Postpartum and post abortion conditions,E1410B,0,3.597
+E1420 Antenatal and other obstetric conditions,E1420A,2.559,inf
+E1420 Antenatal and other obstetric conditions,E1420B,0,2.559
+E1590 Perinatal disorder,E1590Z,0,inf
+E1610 Immune system disorders,E1610A,4.121,inf
+E1610 Immune system disorders,E1610B,0,4.121
+E1620 Red blood cell disorders,E1620Z,0,inf
+E1630 Haemostasis disorders,E1630A,5.165,inf
+E1630 Haemostasis disorders,E1630B,0,5.165
+E1790 Neoplasms,E1790A,6.551,inf
+E1790 Neoplasms,E1790B,3.434,6.551
+E1790 Neoplasms,E1790C,0,3.434
+E1810 Septicaemia,E1810Z,0,inf
+E1820 Viral illnesses,E1820A,4.121,inf
+E1820 Viral illnesses,E1820B,2.559,4.121
+E1820 Viral illnesses,E1820C,0,2.559
+E1830 Fever of unknown origin,E1830A,5.826,inf
+E1830 Fever of unknown origin,E1830B,2.984,5.826
+E1830 Fever of unknown origin,E1830C,0,2.984
+"E1890 Infectious and parasitic diseases, other",E1890A,3.831,inf
+"E1890 Infectious and parasitic diseases, other",E1890B,0,3.831
+E1910 Alcohol and drug related mental and behavioural disorders,E1910A,4.349,inf
+E1910 Alcohol and drug related mental and behavioural disorders,E1910B,2.676,4.349
+E1910 Alcohol and drug related mental and behavioural disorders,E1910C,0,2.676
+E1920 Psychoses,E1920A,4.871,inf
+E1920 Psychoses,E1920B,3.144,4.871
+E1920 Psychoses,E1920C,0,3.144
+"E1990 Mental, behavioural and neurodevelopmental disorders, other",E1990A,3.597,inf
+"E1990 Mental, behavioural and neurodevelopmental disorders, other",E1990B,2.559,3.597
+"E1990 Mental, behavioural and neurodevelopmental disorders, other",E1990C,0,2.559
+"E2010 Head, intracranial, spine, internal organ and other complex injuries",E2010A,8.007,inf
+"E2010 Head, intracranial, spine, internal organ and other complex injuries",E2010B,4.871,8.007
+"E2010 Head, intracranial, spine, internal organ and other complex injuries",E2010C,2.676,4.871
+"E2010 Head, intracranial, spine, internal organ and other complex injuries",E2010D,0,2.676
+E2020 Pelvic and femoral fractures,E2020A,8.007,inf
+E2020 Pelvic and femoral fractures,E2020B,0,8.007
+"E2025 Fractures, dislocations and ligament injuries",E2025A,6.551,inf
+"E2025 Fractures, dislocations and ligament injuries",E2025B,2.413,6.551
+"E2025 Fractures, dislocations and ligament injuries",E2025C,0,2.413
+"E2030 Injuries, other",E2030A,5.165,inf
+"E2030 Injuries, other",E2030B,3.302,5.165
+"E2030 Injuries, other",E2030C,1.999,3.302
+"E2030 Injuries, other",E2030D,0,1.999
+"E2040 Finger, toe and superficial injuries",E2040A,5.826,inf
+"E2040 Finger, toe and superficial injuries",E2040B,2.145,5.826
+"E2040 Finger, toe and superficial injuries",E2040C,0,2.145
+E2050 Burns,E2050A,5.165,inf
+E2050 Burns,E2050B,2.984,5.165
+E2050 Burns,E2050C,0,2.984
+E2060 Poisoning,E2060A,5.826,inf
+E2060 Poisoning,E2060B,2.842,5.826
+E2060 Poisoning,E2060C,0,2.842
+E2070 Allergic reactions,E2070A,2.559,inf
+E2070 Allergic reactions,E2070B,0,2.559
+E2080 Complications of surgical and medical care,E2080A,2.842,inf
+E2080 Complications of surgical and medical care,E2080B,0,2.842
+E5010 Pain syndrome,E5010A,3.144,inf
+E5010 Pain syndrome,E5010B,0,3.144
+"E5090 Symptoms, other",E5090A,5.476,inf
+"E5090 Symptoms, other",E5090B,3.597,5.476
+"E5090 Symptoms, other",E5090C,0,3.597
+E6010 Forensic examination,E6010A,4.349,inf
+E6010 Forensic examination,E6010B,2.079,4.349
+E6010 Forensic examination,E6010C,0,2.079
+E6020 Abuse and neglect,E6020A,4.121,inf
+E6020 Abuse and neglect,E6020B,0,4.121
+E6090 Other factors influencing health status,E6090A,3.144,inf
+E6090 Other factors influencing health status,E6090B,0,3.144

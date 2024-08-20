@@ -1,0 +1,130 @@
+ecdg_code,ecdg_subgroup,intercept
+E0110,E0111 Dementia and other chronic brain syndromes,0.012
+E0120,E0121 Delirium,0.402
+E0130,E0131 Stroke and other cerbrovascular disorderds,-0.021
+E0140,E0141 TIA and precerebral occlusion,-0.011
+E0150,E0151 Seizures,-0.14
+E0160,E0161 Convulsions,-0.01
+E0170,E0171 Headaches,-0.13
+E0190,E0191 CNS infection and inflammation,0.136
+E0190,E0192 Cranial and peripheral nerve disorders,-0.237
+E0190,E0193 Degenerative and demyelinating nervous system disorders,0.009
+E0190,E0194 Stupor and coma,-0.07
+E0190,"E0195 Nervous system disorders, other",0.017
+E0190,E0196 Nervous system signs and symptoms,-0.066
+E0290,E0291 Acute and major eye conditions,-0.332
+E0290,"E0299 Eye disorders, other",-0.247
+E0310,E0311 Disequilibrium,-0.128
+E0310,E0312 Epistaxis,-0.306
+E0310,"E0319 Ear, nose, mouth and throat disorders other",-0.277
+E0320,E0329 Disorders of the teeth and supporting structures,-0.39
+E0410,"E0411 Respiratory arrest, distress and failure",0.284
+E0410,E0412 Pulmonary oedema,0.198
+E0410,E0413 Pulmonary embolism,0.228
+E0420,E0421 Chronic obstructive airways disease,-0.029
+E0430,E0431 Asthma,-0.111
+E0440,E0441 Upper respiratory tract infections,-0.31
+E0450,E0451 Pneumonia,-0.01
+E0450,E0452 Acute bronchitis and bronchiolitis,-0.191
+E0450,"E0459 Lower respiratory tract infections, other",-0.003
+E0490,E0491 Pleural conditions,-0.105
+E0490,"E0492 Respiratory disorders, other",-0.155
+E0490,E0493 Respiratory signs and symptoms,-0.205
+E0510,E0511 Acute myocardial infarction,-0.176
+E0510,E0512 Unstable angina,-0.139
+E0510,E0513 Coronary atherosclerosis,-0.297
+E0520,E0521 Arrhythmia and cardiac arrest,-0.331
+E0530,E0531 Heart failure and shock,-0.023
+E0540,E0541 Chest pain,-0.117
+E0590,E0591 Venous thrombosis,-0.037
+E0590,E0592 Palpitations,-0.098
+E0590,E0593 Syncope and collapse,-0.036
+E0590,E0594 Hypertension,-0.156
+E0590,"E0595 Heart disease, other",-0.239
+E0590,"E0599 Circulatory disorders, other",-0.014
+E0610,E0611 Gastrointestinal haemorrhage,-0.086
+E0620,E0621 Gastrointestinal obstruction,0.064
+E0630,E0631 Peritonitis and gastrointestinal perforation,0.077
+E0640,E0641 Oesophagitis and gastroenteritis,-0.129
+E0650,E0651 Abdominal pain with known underlying cause,-0.048
+E0650,E0652 Abdominal pain underlying cause unknown,0.032
+E0690,E0691 Hernia,-0.263
+E0690,"E0699 Digestive system disorders, other",-0.046
+E0710,E0711 Jaundice,0.155
+E0710,"E0719 Liver disorders, other",0.406
+E0720,"E0721 Gall bladder, bile duct and pancreas disorders",0.055
+E0890,E0891 Spinal disorders,-0.042
+E0890,E0892 Osteomyelitis,0.031
+E0890,E0893 Septic arthritis,0.094
+E0890,E0894 Bone diseases and arthropathies,-0.018
+E0890,E0895 Musculotendinous disorders,-0.078
+E0890,"E0899 Musculoskeletal disorders, other",-0.034
+E0910,E0911 Skin and subcutaneous tissue infections,-0.047
+E0990,E0991 Breast tissue disorders,-0.023
+E0990,E0992 Skin ulcers,0.237
+E0990,"E0993 Skin, subcutaneous and breast tissue disorders, other",-0.289
+E0990,E0994 Skin and subcutaneous signs and symptoms,-0.217
+E1010,E1011 Diabetes,-0.211
+E1090,E1091 Hypoglycaemia,-0.101
+E1090,E1092 Hyperosmolality,0.079
+E1090,E1093 Dehydration,0.05
+E1090,"E1099 Metabolic and nutritional disorders, other",0.056
+E1110,E1111 Kidney failure,0.212
+E1120,E1121 Urinary stones and obstruction,0.234
+E1130,E1131 Kidney and urinary tract infections,-0.087
+E1190,"E1193 Kidney and urinary tract disorders, other",0.015
+E1190,E1194 Kidney and urinary tract signs and symptoms,-0.024
+E1290,E1291 Male genitourinary disorders,-0.114
+E1390,E1391 Gynaecological disorders,-0.003
+E1410,E1411 Postpartum and post abortion conditions,-0.084
+E1420,"E1421 Abortion, threatened",-0.148
+E1420,E1422 Vomiting during pregnancy,-0.088
+E1420,"E1429 Antenatal and obstetric conditions, other",-0.343
+E1590,E1591 Perinatal disorder,-0.123
+E1610,E1611 Immune system disorders,-0.142
+E1620,E1621 Red blood cell disorders,0.093
+E1630,E1631 Haemostasis disorders,0.165
+E1790,"E1791 Neoplasm, malignant",-0.148
+E1790,"E1799 Neoplasm, other",0
+E1810,E1811 Septicaemia,0.219
+E1820,E1821 Viral illnesses,-0.152
+E1830,E1831 Fever of unknown origin,-0.005
+E1890,"E1899 Infectious and parasitic diseases, other",-0.026
+E1910,E1911 Alcohol and drug related mental and behavioural disorders,-0.202
+E1920,E1921 Schizophrenia,-0.003
+E1920,"E1929 Psychosis, other",0.058
+E1990,E1991 Suicidal ideation and attempted self-injury,-0.044
+E1990,E1992 Acute reactions,0.03
+E1990,E1993 Affective disorders,-0.13
+E1990,"E1999 Mental, behavioural and neurodevelopment disorders, other",-0.122
+E2010,E2011 Cranial injuries,0.016
+E2010,E2012 Intracranial injuries,-0.124
+E2010,E2013 Spinal injuries,0.019
+E2010,E2014 Internal organ injuries,0.164
+E2010,E2019 Other complex injuries,-0.254
+E2020,E2021 Pelvic and femoral fractures,0.181
+E2025,E2026 Fractures,0.047
+E2025,E2027 Dislocations,-0.137
+E2025,E2028 Sprains,-0.069
+E2030,"E2031 Concussion, with loss of consciousness",-0.111
+E2030,"E2032 Concussion, without loss of consciousness",-0.13
+E2030,E2033 Open wounds,-0.192
+E2030,"E2039 Injuries, other",-0.241
+E2040,E2041 Open wounds,-0.157
+E2040,"E2042 Fractures, dislocations and sprains",-0.042
+E2040,E2049 Superficial injuries,-0.151
+E2050,E2051 Severe burns,-0.423
+E2050,"E2059 Burns, other",-0.372
+E2060,E2061 Poisoning,-0.211
+E2070,E2071 Anaphylactic shock,-0.102
+E2070,"E2079 Allergic reactions, other",-0.325
+E2080,E2081 Postoperative infections,-0.122
+E2080,"E2089 Complications of surgical and medical care, other",-0.307
+E5010,E5011 Pain syndrome,-0.171
+E5090,E5091 Dizziness,-0.115
+E5090,E5092 Fatigue and weakness,-0.177
+E5090,E5093 Abnormal test result,-0.128
+E5090,"E5099 Symptoms, other",-0.123
+E6010,E6011 Forensic examination or observation,-0.287
+E6020,E6021 Abuse and neglect,-0.151
+E6090,E6099 Other factors influencing health status ,-0.447

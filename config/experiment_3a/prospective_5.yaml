@@ -1,0 +1,61 @@
+SIMULATION_TYPE: experiment_3a
+NO_ITERATION: 1000
+MAX_STEPS: 30240 # in minutes
+RUNIN_PERIOD: 7
+NO_BEDS: &NO_BEDS 46
+NO_CLINICIANS: &NO_CLINICIANS 28
+NO_IMAGING: &NO_IMAGING 4
+HOURLY_ARRIVAL_RATE:
+ 1: 3
+ 2: 3
+ 3: 3
+ 4: 3
+ 5: 3
+ 6: 3
+ 7: 3
+ 8: 3
+ 9: 9
+ 10: 9
+ 11: 9
+ 12: 9
+ 13: 9
+ 14: 9
+ 15: 9
+ 16: 9
+ 17: 6
+ 18: 6
+ 19: 6
+ 20: 6
+ 21: 6
+ 22: 6
+ 23: 6
+ 24: 6
+BRANCHING_TYPE: conditional  # independent, conditional
+COHORT_TYPE: prospective  # prospective, retrospective
+PROCESS_MODEL:  # should start with Arrival and end with Discharge
+  Arrival:
+    capacity: *NO_BEDS
+    share_clinicians: 0
+  VitalSign:
+    capacity: *NO_CLINICIANS
+    share_clinicians: 1
+  MedDispensation:
+    capacity: *NO_CLINICIANS
+    share_clinicians: 1
+  MedAdminister:
+    capacity: *NO_CLINICIANS
+    share_clinicians: 1
+  LabTest:
+    capacity: *NO_BEDS
+    share_clinicians: 0
+  ImagingRequest:
+    capacity: *NO_IMAGING
+    share_clinicians: 0
+  Discharge:
+    capacity: *NO_BEDS
+    share_clinicians: 0
+PROCESS_TIME: params/time_std3
+PROCESS_BRANCHING: params/branching
+COHORT_FREQUENCY: params/frequency
+INCREASE_RETROSPECTIVE: 5  # 0, 1, 2, 3, 4, 5
+INCREASE_TYPE: disposition  # none, disposition, complexity
