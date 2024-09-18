@@ -1,6 +1,6 @@
 This code accompanies the following paper:
 
-**Delos Reyes, R., Capurro, D., & Geard, N. (2024). _Modelling patient trajectories in emergency department simulations using retrospective patient cohorts_. Under review.**
+**Delos Reyes, R., Capurro, D., & Geard, N. (2024). _Modelling patient trajectories in emergency department simulations using retrospective patient cohorts_. Computers in Biology and Medicine. [https://doi.org/10.1016/j.compbiomed.2024.109147](https://doi.org/10.1016/j.compbiomed.2024.109147)**
 
 ---
 
