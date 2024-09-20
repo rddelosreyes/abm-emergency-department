@@ -2,6 +2,8 @@ This code accompanies the following paper:
 
 **Delos Reyes, R., Capurro, D., & Geard, N. (2024). _Modelling patient trajectories in emergency department simulations using retrospective patient cohorts_. Computers in Biology and Medicine. [https://doi.org/10.1016/j.compbiomed.2024.109147](https://doi.org/10.1016/j.compbiomed.2024.109147)**
 
+![graphical-abstract_10-1016-j-compbiomed-2024-109147](https://github.com/user-attachments/assets/96f86c0a-ee55-42d2-b004-b5bb3adf73a2)
+
 ---
 
 **Setting up the environment**
